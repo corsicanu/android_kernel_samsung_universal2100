@@ -10216,13 +10216,13 @@
 				kallsyms {
 					_stext = <0xffffffc0 0x10081000>;
 					_etext = <0xffffffc0 0x10f30000>;
-					kallsyms_offsets = <0xffffffc0 0x11321ef8>;
-					kallsyms_relative_base = <0xffffffc0 0x113a21d0>;
-					kallsyms_num_syms = <0xffffffc0 0x113a21d8>;
-					kallsyms_names = <0xffffffc0 0x113a21e0>;
-					kallsyms_markers = <0xffffffc0 0x1165eaa0>;
-					kallsyms_token_table = <0xffffffc0 0x1165f2a8>;
-					kallsyms_token_index = <0xffffffc0 0x1165f600>;
+					kallsyms_offsets = <0xffffffc0 0x11321698>;
+					kallsyms_relative_base = <0xffffffc0 0x113a1970>;
+					kallsyms_num_syms = <0xffffffc0 0x113a1978>;
+					kallsyms_names = <0xffffffc0 0x113a1980>;
+					kallsyms_markers = <0xffffffc0 0x1165e240>;
+					kallsyms_token_table = <0xffffffc0 0x1165ea48>;
+					kallsyms_token_index = <0xffffffc0 0x1165eda0>;
 					_sinittext = <0xffffffc0 0x119e0000>;
 					_einittext = <0xffffffc0 0x11a5d9ec>;
 					_end = <0xffffffc0 0x1208e000>;

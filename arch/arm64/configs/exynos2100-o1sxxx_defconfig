@@ -732,7 +732,8 @@ CONFIG_ASM_MODVERSIONS=y
 # CONFIG_MODULE_ALLOW_MISSING_NAMESPACE_IMPORTS is not set
 # CONFIG_UNUSED_SYMBOLS is not set
 CONFIG_TRIM_UNUSED_KSYMS=y
-CONFIG_UNUSED_KSYMS_WHITELIST="gki/abi_symbollist.raw"
+CONFIG_UNUSED_KSYMS_WHITELIST="/home/dpi/qb5_8814/workspace/P4_1716/android/kernel/exynos2100/gki/abi_symbollist.raw"
+CONFIG_KMI_SYMBOL_LISTS="android/abi_gki_aarch64 android/abi_gki_aarch64_exynos android/abi_gki_aarch64_qcom android/abi_gki_aarch64_sunxi android/abi_gki_aarch64_unisoc android/abi_gki_aarch64_hikey960 android/abi_gki_aarch64_cuttlefish android/abi_gki_aarch64_db845c android/abi_gki_aarch64_goldfish android/abi_gki_aarch64_oneplus android/abi_gki_aarch64_oplus android/abi_gki_aarch64_vivo android/abi_gki_aarch64_exynosauto android/abi_gki_aarch64_imx android/abi_gki_aarch64_sony android/abi_gki_aarch64_xiaomi android/abi_gki_aarch64_galaxy android/abi_gki_aarch64_galaxy_presubmit abi_greylist"
 CONFIG_MODULES_TREE_LOOKUP=y
 CONFIG_BLOCK=y
 CONFIG_BLK_SCSI_REQUEST=y
